@@ -6,10 +6,10 @@ Please install node/npm version 8.x or higher
 
 ### Usage
 
-Alt H2 Install all the dependencies using:  `npm install`
+Install all the dependencies using:  `npm install`
 
-1) Alt-H3 For Mouse Clicks , hover and keyboard use :  `node jeher.js`
-2) Alt-H3 For Mouse Clicks , hover and keyboard use :  `node jehermulti.js`
+1) For Mouse Clicks , hover and keyboard use :  `node jeher.js`
+2)  For Mouse Clicks , hover and keyboard use :  `node jehermulti.js`
 
 
 
