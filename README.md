@@ -9,7 +9,7 @@ Please install node/npm version 8.x or higher
 Install all the dependencies using:  `npm install`
 
 1) For Mouse Clicks , hover and keyboard use :  `node jeher.js`
-2)  For Mouse Clicks , hover and keyboard use :  `node jehermulti.js`
+2) For multiple windows and screenshots  :  `node jehermulti.js`
 
 
 
